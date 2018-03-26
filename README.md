@@ -9,3 +9,5 @@
 ### Features
 
 Feature branches are OSF project and task pecific.
+
+* feature/rate-limit: contains 10K+ files and is used to test GitHub [rate limiting](https://developer.github.com/v3/#rate-limiting).
